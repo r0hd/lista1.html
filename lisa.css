@@ -1,0 +1,17 @@
+.titulo {
+ background-color: rgb(248, 245, 250);
+
+font-family: 'Segoe UI';
+
+ padding-left: 550px;
+}
+
+.barraPesquisa{
+    margin-left: 530px;
+
+    margin-top: 100px;
+}
+
+.Lista{
+    margin-left: 550px;
+}
